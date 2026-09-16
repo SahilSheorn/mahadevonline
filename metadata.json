@@ -1,0 +1,6 @@
+{
+  "name": "Mahadev Onlines",
+  "description": "Mahadev Onlines — consulting and business services. We are here to help you, contact us anytime on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
